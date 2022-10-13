@@ -1,0 +1,18 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="main.mainGUI.networkTogle_btt" />
+          <option value="main.mainGUI.*" />
+          <option value="main_ver23.mainGUI.networkTogle_btt" />
+          <option value="main_ver23.mainGUI.cameraTogle_btt_1" />
+          <option value="main_ver23.mainGUI.*" />
+          <option value="threading._active" />
+          <option value="main.UIFunctions" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
